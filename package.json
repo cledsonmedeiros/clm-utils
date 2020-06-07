@@ -1,0 +1,19 @@
+{
+  "name": "clm-utils",
+  "version": "1.0.0",
+  "description": "Utilitários CLMSOFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cledsonmedeiros/clm-utils.git"
+  },
+  "author": "Cledson Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cledsonmedeiros/clm-utils/issues"
+  },
+  "homepage": "https://github.com/cledsonmedeiros/clm-utils#readme"
+}
