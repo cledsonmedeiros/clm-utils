@@ -1,5 +1,5 @@
 {
-  "name": "clm-utils",
+  "name": "@cledsonm/clm-utils",
   "version": "1.0.0",
   "description": "Utilitários CLMSOFT",
   "main": "index.js",
